@@ -1,5 +1,5 @@
 package AnyEvent::Monitor::CPU;
-our $VERSION = '0.2';
+our $VERSION = '0.3';
 
 
 
@@ -144,7 +144,7 @@ AnyEvent::Monitor::CPU - monitors your process CPU usage, with high/low watermar
 
 =head1 VERSION
 
-version 0.2
+version 0.3
 
 =head1 SYNOPSIS
 

@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution AnyEvent-Monitor-CPU, version
-0.2:
+0.3:
 
   monitors your process CPU usage, with high/low watermark triggers
 
